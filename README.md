@@ -6,30 +6,17 @@ This work was done in collaboration with [Lucas Chesini Okimoto](https://www.lin
 
 # Project organization 
 
+This project is organized as below
 ::
 
-    data
-    └── raw
-        ├── 0040000
-        │   └── session_1
-        │       ├── anat_1
-        │       └── rest_1
-        ├── 0040001
-        │   └── session_1
-        │       ├── anat_1
-        │       └── rest_1
-        ├── 0040002
-        │   └── session_1
-        │       ├── anat_1
-        │       └── rest_1
-        ├── 0040003
-        │   └── session_1
-        │       ├── anat_1
-        │       └── rest_1
-        ├── 0040004
-        │   └── session_1
-        │       ├── anat_1
-        │       └── rest_1
-
+    ArtificialDataset
+    ├── dataFelipe1.csv
+    └── dataFelipe2.csv
+    outputs
+    └── run_ArtificialDataset.csv
+    scripts
+    ├── __initi__.py
+    ├── run_all.py
+    └── stats.py
 
 ..
