@@ -12,11 +12,14 @@ This project is organized as below
     ArtificialDataset
     ├── dataFelipe1.csv
     └── dataFelipe2.csv
+    logs
+    └── ArtificialDataset.log
     outputs
     └── run_ArtificialDataset.csv
     scripts
     ├── __initi__.py
     ├── run_all.py
     └── stats.py
-
 ..
+
+The main code is kept inside 'scripts/stats.py'
