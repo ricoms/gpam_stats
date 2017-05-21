@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/91934660.svg)](https://zenodo.org/badge/latestdoi/91934660)
+
 # gpam_stats
 
 Implementation of statistics used for paper soon to be cited here.
