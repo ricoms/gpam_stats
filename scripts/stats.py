@@ -401,6 +401,8 @@ def n3_error_rate_nearest_neighbor_classifier(data):
         mistakes = mistakes + mistake
     
     n3 = (1.0 * mistakes) / n
+    if n3 > 1:
+        n3 = 1
     return n3
 
 def random_combinations(points_in_class):
