@@ -2,7 +2,7 @@
 
 # gpam_stats
 
-Implementation of statistics used for paper soon to be cited here.
+Implementation of statistics used for paper: OKIMOTO, L. C. ; SAVII, R. M. ; LORENA, A. C. . Complexity Measures Effectiveness in Feature Selection. In: Brazilian Conference on Intelligent Systems (BRACIS), 2017, Uberlândia. IEEE Proceedings of the 2017 Brazilian Conference on Intelligent Systems (BRACIS), 2017. v. 1. p. 1-6.
 
 This work was done in collaboration with [Lucas Chesini Okimoto](https://www.linkedin.com/in/lucas-chesini-okimoto-76646925/) and [Ana Carolina Lorena](http://lattes.cnpq.br/3451628262694747) from [ICT-UNIFESP](http://www.unifesp.br/campus/sjc/), São José dos Campos, SP - Brazil.
 
